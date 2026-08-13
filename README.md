@@ -1,6 +1,12 @@
-# Blog Notebooks — Collaborative Filtering and Parallelisation
+<div align="center">
 
-> Two worked tutorials, the earliest public code in this collection.
+<h1>Blog Notebooks — Collaborative Filtering and Parallelisation</h1>
+
+<p><strong>Two worked tutorials, the earliest public code in this collection.</strong></p>
+
+<sub>Ved Piyush · PhD in Statistics · University of Nebraska–Lincoln</sub>
+
+</div>
 
 ---
 
@@ -15,7 +21,6 @@ that grows with how often they occurred.
 **Parallelisation for beginners.** A practical introduction to splitting independent computations across processes,
 aimed at people whose analysis has outgrown a single core.
 
-
 ## Where to look first
 
 - **`Collaborative Filtering for Implicit Feedback Datasets-Demo.ipynb`** — the recommender tutorial
@@ -23,11 +28,16 @@ aimed at people whose analysis has outgrown a single core.
 
 ## Notes
 
-Notebook outputs are committed, so the figures and result tables render on GitHub without running anything.
+> Notebook outputs are committed, so the figures and result tables render on GitHub without running anything.
 
 Research code from my doctoral work at the University of Nebraska–Lincoln (2 notebooks). Previously hosted at `github.com/Ved-Piyush/Data-Science-Blog`.
 
 ---
 
-**Ved Piyush, PhD** · Statistics, University of Nebraska–Lincoln  
-[vedpiyush93@gmail.com](mailto:vedpiyush93@gmail.com) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=657rVYAAAAAJ) · [Website](https://vedpiyush93-stack.github.io)
+<div align="center">
+<sub>
+
+**Ved Piyush, PhD** · [Website](https://vedpiyush93-stack.github.io) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=657rVYAAAAAJ) · [vedpiyush93@gmail.com](mailto:vedpiyush93@gmail.com)
+
+</sub>
+</div>
