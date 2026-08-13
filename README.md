@@ -15,6 +15,12 @@ that grows with how often they occurred.
 **Parallelisation for beginners.** A practical introduction to splitting independent computations across processes,
 aimed at people whose analysis has outgrown a single core.
 
+
+## Where to look first
+
+- **`Collaborative Filtering for Implicit Feedback Datasets-Demo.ipynb`** — the recommender tutorial
+- **`Parallelization for beginners.ipynb`** — the parallelisation tutorial
+
 ## Notes
 
 Notebook outputs are committed, so the figures and result tables render on GitHub without running anything.
